@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="WEB-INF/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/activation.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/avalon-logkit-2.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-pool-1.4.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/compiler.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/dsn-1.5.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/ehcache-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/htmlcompressor-1.5.3.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/javax.mail .jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jrails-framework-1.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jyaml-1.3.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mysql.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/sizeof-agent-1.0.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/velocity-1.7-dep.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/velocity-tools-2.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/velocity-tools-generic-2.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/velocity-tools-view-2.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/werken-xpath-0.9.4.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/yuicompressor-2.4.7.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
